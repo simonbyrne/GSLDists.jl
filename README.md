@@ -1,3 +1,4 @@
-# GSLDists
+# GSLDists.jl
 
-[![Build Status](https://travis-ci.org/simonbyrne/GSLDists.jl.png)](https://travis-ci.org/simonbyrne/GSLDists.jl)
+This provides a Julia interface to the statistical distribution functions of
+the GNU Scientific Library (GSL).
